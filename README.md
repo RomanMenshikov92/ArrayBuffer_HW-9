@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «`ArrayBuffer`»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/n5j5ni1fhhqj084h?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/arraybuffer-hw-9)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: код должен проходить ESLint без ошибок.
